@@ -1,0 +1,25 @@
+
+
+GIT Commands
+
+
+============================
+
+- creating local repository
+
+    go to folder which you want to make repository
+	right click and select git bash here
+	type this command
+   	( git init )
+	   
+	   
+- 	   git pull origin master
+-      git push -u orign master
+
+-------Indexing before git push
+- git add textfile.txt
+- git add -a
+
+--------checking status of files
+
+- git status
