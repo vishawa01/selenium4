@@ -23,3 +23,17 @@ GIT Commands
 --------checking status of files
 
 - git status
+
+
+
+-------------Git Commit ( local repositior )
+
+single file
+- git commit -m "commiting single file"
+
+multiple files
+- git commit -a -m "comminting all fies" 
+
+
+-----------------------Log of git actions
+git log
